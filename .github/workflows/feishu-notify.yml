@@ -13,8 +13,8 @@ jobs:
 
       - name: Send to Feishu
         run: |
-          FILE=$(git diff-tree --no-commit-id -r --name-only ${{ github.sha }} | grep '^daily-news/' | head -1)
-          DATE=$(jq -r '.date' "$FILE")
+          DATE=$(date -u +%Y-%m-%d)
+          FILE="daily-news/${DATE}.json"
 
           # Build rich text content array
           CONTENT=$(jq -c '[.news[] | [
