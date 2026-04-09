@@ -1,0 +1,55 @@
+{
+  "date": "2026-04-09",
+  "news": [
+    {
+      "title": "Meta 发布 Muse Spark：超级智能实验室首款模型正式亮相",
+      "summary": "Meta于4月8日正式推出首款由Meta超级智能实验室开发的AI模型Muse Spark，由新任首席AI官Alexandr Wang主导研发。该模型采用闭源策略，已在Facebook、Instagram、WhatsApp等平台上线，在多模态理解和健康信息处理方面具有竞争力。",
+      "url": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/"
+    },
+    {
+      "title": "Anthropic 推出 Claude Mythos Preview 并启动 Project Glasswing 网络安全计划",
+      "summary": "Anthropic发布专为网络安全设计的前沿模型Claude Mythos Preview，该模型已在主流操作系统和浏览器中发现数千个此前未知的零日漏洞。通过Project Glasswing项目，Anthropic向微软、苹果、谷歌、英伟达等40余家科技和安全公司提供限量访问权限，仅用于防御性安全工作。",
+      "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/"
+    },
+    {
+      "title": "2026年Q1全球风险投资创历史纪录，AI占比80%",
+      "summary": "2026年第一季度全球风险投资总额达3000亿美元，其中AI公司获投2420亿美元，占全球风投总额约80%，创下历史新高。OpenAI（1220亿）、Anthropic（300亿）、xAI（200亿）、Waymo（160亿）四家公司合计融资1880亿美元，占全球风投总额约65%。",
+      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/"
+    },
+    {
+      "title": "OpenAI 年化营收突破250亿美元，筹备上市估值或达万亿",
+      "summary": "OpenAI年化营收已超过250亿美元，Anthropic年化营收接近190亿美元，两家公司均在快速增长。OpenAI正积极准备IPO，计划最早于2026年下半年提交申请，届时估值可能接近1万亿美元。",
+      "url": "https://www.theinformation.com/articles/openai-tops-25-billion-annualized-revenue-anthropic-narrows-gap"
+    },
+    {
+      "title": "Google Gemini 3.1 Pro 全球推出，Gemini 用户突破7.5亿",
+      "summary": "Google Gemini 3.1 Pro已面向全球用户推出，在复杂编码和数据分析任务上表现出色，ComplexFuncBench评分达90.8%。Google Gemini总用户数已突破7.5亿，Gemini 3.1 Pro同步在Vertex AI企业版上提供200万token上下文窗口。",
+      "url": "https://tech-insider.org/google-gemini-750-million-users-march-2026-updates/"
+    },
+    {
+      "title": "OpenAI 推出 GPT-5.4 Mini 免费版并新增 CarPlay 语音功能",
+      "summary": "OpenAI将GPT-5.4 Mini向ChatGPT免费用户推出，付费用户可将其作为GPT-5.4 Thinking的备用选项。ChatGPT还新增CarPlay深度集成，支持iOS 26.4以上设备在驾驶时通过语音直接开始或恢复与ChatGPT的对话。",
+      "url": "https://releasebot.io/updates/openai/chatgpt"
+    },
+    {
+      "title": "华为 Ascend 950PR AI 芯片获字节跳动、阿里巴巴大规模订单",
+      "summary": "华为最新AI推理芯片Ascend 950PR在客户测试中表现出色，字节跳动和阿里巴巴均计划下达大规模订单，字节跳动2026年采购额预计超过56亿美元。该芯片改善了与英伟达CUDA生态的兼容性，华为计划2026年出货约75万颗。",
+      "url": "https://www.cnbc.com/2026/03/27/bytedance-alibaba-planning-to-order-huaweis-new-ai-chip-reuters.html"
+    },
+    {
+      "title": "Mistral AI 发布旗舰模型 Large 3，支持欧盟数据驻留",
+      "summary": "Mistral AI推出旗舰模型Large 3，大幅提升结构化输出生成、函数调用准确性和JSON模式可靠性。新模型通过La Plateforme平台支持欧盟数据驻留，满足GDPR合规需求，同时还发布了性能更优的Embeddings v2多语言语义搜索模型。",
+      "url": "https://llm-stats.com/ai-news"
+    },
+    {
+      "title": "Meta 开源 Llama 4 Scout 边缘视觉语言模型，单卡即可运行",
+      "summary": "Meta开源Llama 4 Scout，一款170亿参数的视觉语言模型，专为边缘设备优化，可在单张消费级GPU上运行。该模型在视觉基准测试中达到竞争性分数，HuggingFace Open LLM排行榜上跻身开源模型前列。",
+      "url": "https://llm-stats.com/llm-updates"
+    },
+    {
+      "title": "犹他州立法授权AI系统自主续药，成全美首例",
+      "summary": "美国犹他州通过立法，成为全美首个赋予AI系统自主更新处方药权限的州，标志着AI在医疗自动化领域的重大突破。此举引发业界对AI医疗决策安全性与监管框架的广泛讨论。",
+      "url": "https://www.buildez.ai/blog/ai-trending-april-2026-biggest-shifts"
+    }
+  ]
+}
