@@ -13,28 +13,32 @@ jobs:
 
       - name: Send to Feishu
         run: |
-          TITLE=$(jq -r '.title' daily-news/latest.json)
-          SUMMARY=$(jq -r '.summary' daily-news/latest.json)
-          URL=$(jq -r '.url' daily-news/latest.json)
+          DATE=$(jq -r '.date' daily-news/latest.json)
 
-          curl -X POST "${{ secrets.FEISHU_WEBHOOK_URL }}" \
-            -H 'Content-Type: application/json' \
-            -d "$(jq -n \
-              --arg title "$TITLE" \
-              --arg summary "$SUMMARY" \
-              --arg url "$URL" \
-              '{
-                msg_type: "post",
-                content: {
-                  post: {
-                    zh_cn: {
-                      title: ("📰 今日 AI 日报｜" + $title),
-                      content: [[
-                        {"tag": "text", "text": ($summary + "\n\n")},
-                        {"tag": "a", "text": "阅读原文", "href": $url}
-                      ]]
-                    }
+          # Build rich text content array
+          CONTENT=$(jq -c '[.news[] | [
+            {"tag": "text", "text": ("【" + (.title) + "】\n")},
+            {"tag": "text", "text": ((.summary) + "\n")},
+            {"tag": "a", "text": "原文链接", "href": .url},
+            {"tag": "text", "text": "\n\n"}
+          ]] | [.[] | .[]]' daily-news/latest.json)
+
+          # Wrap into feishu post format
+          BODY=$(jq -n \
+            --arg date "$DATE" \
+            --argjson content "$CONTENT" \
+            '{
+              msg_type: "post",
+              content: {
+                post: {
+                  zh_cn: {
+                    title: ("📰 AI 日报｜" + $date),
+                    content: [$content]
                   }
                 }
-              }'
-            )"
+              }
+            }')
+
+          curl -s -X POST "${{ secrets.FEISHU_WEBHOOK_URL }}" \
+            -H 'Content-Type: application/json' \
+            -d "$BODY"
