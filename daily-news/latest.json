@@ -1,0 +1,6 @@
+{
+  "title": "Meta 发布首个自研大模型 Muse Spark，标志 AI 战略重大转型",
+  "summary": "Meta 于2026年4月8日正式发布 Muse Spark，这是其超级智能实验室（Meta Superintelligence Labs）推出的首款旗舰 AI 模型，由首席 AI 官 Alexandr Wang 主导研发。Muse Spark 支持文本、图像和语音多模态输入，具备「即时」与「思考」两种推理模式，并可协调多个 AI 子智能体协同完成复杂任务。与上一代 Llama 4 Maverick 相比，Muse Spark 实现同等推理能力仅需不到十分之一的算力，效率大幅提升。该模型已在 meta.ai 网页和 Meta AI 应用上线，未来将逐步集成到 Facebook、Instagram、WhatsApp 及 Ray-Ban Meta 智能眼镜等全线产品，标志着 Meta 从开源 Llama 路线转向自研专有模型的重大战略转型。",
+  "url": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/",
+  "date": "2026-04-09"
+}
