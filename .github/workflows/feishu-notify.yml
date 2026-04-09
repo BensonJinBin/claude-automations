@@ -3,7 +3,7 @@ name: Feishu Notify
 on:
   push:
     paths:
-      - 'daily-news/latest.json'
+      - 'daily-news/**.json'
 
 jobs:
   notify:
@@ -13,7 +13,8 @@ jobs:
 
       - name: Send to Feishu
         run: |
-          DATE=$(jq -r '.date' daily-news/latest.json)
+          FILE=$(git diff-tree --no-commit-id -r --name-only ${{ github.sha }} | grep '^daily-news/' | head -1)
+          DATE=$(jq -r '.date' "$FILE")
 
           # Build rich text content array
           CONTENT=$(jq -c '[.news[] | [
@@ -21,7 +22,7 @@ jobs:
             {"tag": "text", "text": ((.summary) + "\n")},
             {"tag": "a", "text": "原文链接", "href": .url},
             {"tag": "text", "text": "\n\n"}
-          ]] | [.[] | .[]]' daily-news/latest.json)
+          ]] | [.[] | .[]]' "$FILE")
 
           # Wrap into feishu post format
           BODY=$(jq -n \
@@ -42,3 +43,4 @@ jobs:
           curl -s -X POST "${{ secrets.FEISHU_WEBHOOK_URL }}" \
             -H 'Content-Type: application/json' \
             -d "$BODY"
+
