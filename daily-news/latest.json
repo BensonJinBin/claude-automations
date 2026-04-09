@@ -1,6 +1,55 @@
 {
-  "title": "Meta 发布首款自研大模型 Muse Spark，由前 Scale AI CEO 王仲麟领衔打造",
-  "summary": "Meta 于4月8日正式发布旗舰 AI 大模型 Muse Spark，这是其超智能实验室（Meta Superintelligence Labs）成立九个月以来的首款产品，由首席 AI 官 Alexandr Wang（王仲麟）主导研发。该模型从底层架构到数据管线进行了全面重构，在多模态感知、推理、医疗健康及智能体任务上表现出色，计算效率相比前代 Llama 4 Maverick 提升超过一个数量级。Muse Spark 全系列免费开放使用，并将在未来数周内陆续部署至 Facebook、Instagram、WhatsApp、Messenger 及 Ray-Ban Meta AI 智能眼镜。此次发布标志着 Meta 在 AI 竞速中发起新一轮反击，直面 Google 和 OpenAI 的领先优势。",
-  "url": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/",
-  "date": "2026-04-09"
+  "date": "2026-04-09",
+  "news": [
+    {
+      "title": "Meta发布首款专有闭源AI模型Muse Spark",
+      "summary": "Meta旗下超级智能实验室发布Muse系列首款模型Muse Spark，支持文本、语音和图像输入，专注复杂推理任务，将整合至WhatsApp、Instagram等平台。这是Meta首次推出闭源专有模型，标志着其AI战略重大转向。",
+      "url": "https://www.ghacks.net/2026/04/09/meta-launches-muse-spark-its-first-proprietary-ai-model-with-no-open-source/"
+    },
+    {
+      "title": "Q1 2026全球AI投资创历史纪录，单季度达3000亿美元",
+      "summary": "2026年第一季度全球风险投资达3000亿美元，其中AI占2420亿美元（占比80%），刷新历史纪录。OpenAI、Anthropic、xAI等前沿AI实验室包揽全球前五大融资轮次中的四席。",
+      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/"
+    },
+    {
+      "title": "OpenAI确认GPT-5.5训练完成，预计数周内发布",
+      "summary": "OpenAI确认代号Spud的GPT-5.5已完成训练，目前处于安全评估阶段，预计数周内发布。已发布的GPT-5.4 Thinking具备100万token上下文，在桌面生产力任务基准测试中得分超过人类基线。",
+      "url": "https://primeaicenter.com/gpt-5-5-review/"
+    },
+    {
+      "title": "Anthropic发布专为网络安全设计的Claude Mythos Preview",
+      "summary": "Anthropic发布Claude Mythos Preview，专门针对网络安全场景设计，已发现数千个未知零日漏洞。该模型通过Project Glasswing计划向微软、亚马逊等40余家科技与安全企业定向部署，不对公众开放。",
+      "url": "https://red.anthropic.com/2026/mythos-preview/"
+    },
+    {
+      "title": "Google发布Gemma 4开源模型，31B版跻身全球开源第三",
+      "summary": "Google于4月2日发布Gemma 4系列开源模型，包括26B和31B两款，31B版在Arena AI文本排行榜位列全球开源模型第三名。模型基于Apache 2.0协议发布，专为高级推理和Agent工作流设计。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/"
+    },
+    {
+      "title": "华为Ascend 950PR芯片获字节跳动、阿里巴巴大额订单",
+      "summary": "华为全新AI推理芯片Ascend 950PR通过字节跳动和阿里巴巴客户测试，字节跳动计划2026年投入逾56亿美元采购华为Ascend芯片。该芯片FP4算力是英伟达H20的2.8倍，有望推动中国AI算力国产化进程。",
+      "url": "https://www.cnbc.com/2026/03/27/bytedance-alibaba-planning-to-order-huaweis-new-ai-chip-reuters.html"
+    },
+    {
+      "title": "Anthropic推出Claude Managed Agents企业级托管服务",
+      "summary": "Anthropic于4月8日发布Claude Managed Agents，为企业级AI工作流提供托管部署、自动弹性扩展和内置监控功能。此举旨在降低企业构建和运营AI Agent的门槛，进一步扩大Claude在企业市场的渗透率。",
+      "url": "https://nationaltoday.com/us/ca/san-francisco/news/2026/04/08/anthropic-unveils-managed-agents-for-claude-eyeing-enterprise-ai-workflows/"
+    },
+    {
+      "title": "美国白宫发布国家AI政策框架，建议联邦统一监管",
+      "summary": "美国白宫于3月20日发布国家AI政策框架，建议国会立法建立统一联邦AI监管标准，以取代各州分散立法。框架涵盖儿童保护、知识产权、言论自由和创新激励等核心议题。",
+      "url": "https://www.cnbc.com/2026/03/20/trump-ai-policy-framework.html"
+    },
+    {
+      "title": "NVIDIA宣布机器人的ChatGPT时刻已到来，物理AI加速落地",
+      "summary": "国家机器人周期间，NVIDIA发布新一代物理AI模型，多家合作伙伴展示基于Jetson Thor平台的下一代机器人。CEO黄仁勋表示物理AI拐点已到来，AI驱动的机器人正在制造、农业和物流领域加速从实验室走向规模化部署。",
+      "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/"
+    },
+    {
+      "title": "斯坦福研究：AI仅需一夜睡眠数据即可预测未来疾病风险",
+      "summary": "斯坦福大学研究人员开发出AI模型，仅利用单晚睡眠监测数据即可预测用户未来患病风险，涵盖心血管疾病、糖尿病等多种慢性病。该研究被视为AI医疗健康领域重要突破，为可穿戴设备的疾病预防应用开辟了新路径。",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
+    }
+  ]
 }
