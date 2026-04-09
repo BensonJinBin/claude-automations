@@ -1,0 +1,40 @@
+name: Feishu Notify
+
+on:
+  push:
+    paths:
+      - 'daily-news/latest.json'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Send to Feishu
+        run: |
+          TITLE=$(jq -r '.title' daily-news/latest.json)
+          SUMMARY=$(jq -r '.summary' daily-news/latest.json)
+          URL=$(jq -r '.url' daily-news/latest.json)
+
+          curl -X POST "${{ secrets.FEISHU_WEBHOOK_URL }}" \
+            -H 'Content-Type: application/json' \
+            -d "$(jq -n \
+              --arg title "$TITLE" \
+              --arg summary "$SUMMARY" \
+              --arg url "$URL" \
+              '{
+                msg_type: "post",
+                content: {
+                  post: {
+                    zh_cn: {
+                      title: ("📰 今日 AI 日报｜" + $title),
+                      content: [[
+                        {"tag": "text", "text": ($summary + "\n\n")},
+                        {"tag": "a", "text": "阅读原文", "href": $url}
+                      ]]
+                    }
+                  }
+                }
+              }'
+            )"
