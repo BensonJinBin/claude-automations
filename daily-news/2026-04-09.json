@@ -2,54 +2,54 @@
   "date": "2026-04-09",
   "news": [
     {
-      "title": "Meta 发布 Muse Spark：超级智能实验室首款模型正式亮相",
-      "summary": "Meta于4月8日正式推出首款由Meta超级智能实验室开发的AI模型Muse Spark，由新任首席AI官Alexandr Wang主导研发。该模型采用闭源策略，已在Facebook、Instagram、WhatsApp等平台上线，在多模态理解和健康信息处理方面具有竞争力。",
+      "title": "Meta发布首个Muse Spark AI模型，正面挑战OpenAI与谷歌",
+      "summary": "Meta超级智能实验室发布首个大模型Muse Spark，由首席AI官Alexandr Wang主导开发，支持语音、文本和图像输入，将集成至Meta AI应用、Facebook、Instagram、WhatsApp及Ray-Ban智能眼镜。该模型性能显著缩小与OpenAI、Anthropic等头部模型的差距，所有版本免费使用。",
       "url": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/"
     },
     {
-      "title": "Anthropic 推出 Claude Mythos Preview 并启动 Project Glasswing 网络安全计划",
-      "summary": "Anthropic发布专为网络安全设计的前沿模型Claude Mythos Preview，该模型已在主流操作系统和浏览器中发现数千个此前未知的零日漏洞。通过Project Glasswing项目，Anthropic向微软、苹果、谷歌、英伟达等40余家科技和安全公司提供限量访问权限，仅用于防御性安全工作。",
+      "title": "Anthropic发布Claude Mythos网络安全专用模型，已发现数千个零日漏洞",
+      "summary": "Anthropic推出Claude Mythos Preview，这是专为网络安全设计的前沿模型，已在主流操作系统和浏览器中发现数千个此前未知的零日漏洞。通过\"Project Glasswing\"计划向微软、谷歌、苹果、亚马逊等40余家企业开放，但不对公众发布，以防止被恶意利用。",
       "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/"
     },
     {
-      "title": "2026年Q1全球风险投资创历史纪录，AI占比80%",
-      "summary": "2026年第一季度全球风险投资总额达3000亿美元，其中AI公司获投2420亿美元，占全球风投总额约80%，创下历史新高。OpenAI（1220亿）、Anthropic（300亿）、xAI（200亿）、Waymo（160亿）四家公司合计融资1880亿美元，占全球风投总额约65%。",
+      "title": "谷歌发布Gemma 4开源模型系列，31B模型性能超越400B竞品",
+      "summary": "谷歌DeepMind于4月2日发布Gemma 4，提供四种规格（2B至31B参数），基于Apache 2.0开源协议，由Gemini 3同源技术构建。旗舰版31B模型在Arena AI文本排行榜位居第三，AIME 2026数学测试从20.8%飙升至89.2%，支持超过140种语言及128K-256K上下文窗口。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/"
+    },
+    {
+      "title": "OpenAI筹备IPO，CFO宣布将为散户投资者预留股份",
+      "summary": "OpenAI CFO Sarah Friar宣布，公司在最高可达1万亿美元估值的IPO计划中将为散户预留一定比例股份，延续此前1220亿美元融资轮中向个人投资者开放30亿美元的做法。CEO Sam Altman力推四季度上市，但CFO内部认为时间表过于激进。",
+      "url": "https://www.cnbc.com/2026/04/08/openai-ipo-sarah-friar-retail-investors.html"
+    },
+    {
+      "title": "2026年Q1全球风投创历史纪录，AI获2420亿美元占比80%",
+      "summary": "2026年第一季度全球创业投资总额突破3000亿美元，创历史新高，同比增长超150%。其中AI领域吸金2420亿美元，占全球风投总额80%；OpenAI（1220亿）、Anthropic（300亿）、xAI（200亿）、Waymo（160亿）四笔交易合计占全球风投总额65%。",
       "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/"
     },
     {
-      "title": "OpenAI 年化营收突破250亿美元，筹备上市估值或达万亿",
-      "summary": "OpenAI年化营收已超过250亿美元，Anthropic年化营收接近190亿美元，两家公司均在快速增长。OpenAI正积极准备IPO，计划最早于2026年下半年提交申请，届时估值可能接近1万亿美元。",
-      "url": "https://www.theinformation.com/articles/openai-tops-25-billion-annualized-revenue-anthropic-narrows-gap"
-    },
-    {
-      "title": "Google Gemini 3.1 Pro 全球推出，Gemini 用户突破7.5亿",
-      "summary": "Google Gemini 3.1 Pro已面向全球用户推出，在复杂编码和数据分析任务上表现出色，ComplexFuncBench评分达90.8%。Google Gemini总用户数已突破7.5亿，Gemini 3.1 Pro同步在Vertex AI企业版上提供200万token上下文窗口。",
-      "url": "https://tech-insider.org/google-gemini-750-million-users-march-2026-updates/"
-    },
-    {
-      "title": "OpenAI 推出 GPT-5.4 Mini 免费版并新增 CarPlay 语音功能",
-      "summary": "OpenAI将GPT-5.4 Mini向ChatGPT免费用户推出，付费用户可将其作为GPT-5.4 Thinking的备用选项。ChatGPT还新增CarPlay深度集成，支持iOS 26.4以上设备在驾驶时通过语音直接开始或恢复与ChatGPT的对话。",
-      "url": "https://releasebot.io/updates/openai/chatgpt"
-    },
-    {
-      "title": "华为 Ascend 950PR AI 芯片获字节跳动、阿里巴巴大规模订单",
-      "summary": "华为最新AI推理芯片Ascend 950PR在客户测试中表现出色，字节跳动和阿里巴巴均计划下达大规模订单，字节跳动2026年采购额预计超过56亿美元。该芯片改善了与英伟达CUDA生态的兼容性，华为计划2026年出货约75万颗。",
-      "url": "https://www.cnbc.com/2026/03/27/bytedance-alibaba-planning-to-order-huaweis-new-ai-chip-reuters.html"
-    },
-    {
-      "title": "Mistral AI 发布旗舰模型 Large 3，支持欧盟数据驻留",
-      "summary": "Mistral AI推出旗舰模型Large 3，大幅提升结构化输出生成、函数调用准确性和JSON模式可靠性。新模型通过La Plateforme平台支持欧盟数据驻留，满足GDPR合规需求，同时还发布了性能更优的Embeddings v2多语言语义搜索模型。",
+      "title": "OpenAI发布GPT-5.4，桌面任务自动化得分超越人类基线",
+      "summary": "OpenAI推出GPT-5.4，拥有100万token上下文窗口，可自主执行跨软件环境的多步骤任务。在模拟真实桌面生产任务的OSWorld-V基准测试中得分75%，略超人类基线72.4%；同时大幅减少对良性边缘请求的拒绝率达40%，并将GPT-5.4 Mini编码能力提升至接近完整版水平。",
       "url": "https://llm-stats.com/ai-news"
     },
     {
-      "title": "Meta 开源 Llama 4 Scout 边缘视觉语言模型，单卡即可运行",
-      "summary": "Meta开源Llama 4 Scout，一款170亿参数的视觉语言模型，专为边缘设备优化，可在单张消费级GPU上运行。该模型在视觉基准测试中达到竞争性分数，HuggingFace Open LLM排行榜上跻身开源模型前列。",
-      "url": "https://llm-stats.com/llm-updates"
+      "title": "阿里发布Qwen3.6-Plus，国产模型编程能力逼近Claude系列",
+      "summary": "阿里通义千问发布新一代大语言模型Qwen3.6-Plus，编程能力在权威评测中超越GLM-5、Kimi-K2.5等2至3倍参数量的竞品，成为国产最强编程模型，整体性能接近Claude系列全球顶级水平。模型基于原生多模态数据训练，具备更强的多模态推理与智能体编程能力。",
+      "url": "https://www.chinanews.com.cn/cj/2026/04-02/10597595.shtml"
     },
     {
-      "title": "犹他州立法授权AI系统自主续药，成全美首例",
-      "summary": "美国犹他州通过立法，成为全美首个赋予AI系统自主更新处方药权限的州，标志着AI在医疗自动化领域的重大突破。此举引发业界对AI医疗决策安全性与监管框架的广泛讨论。",
-      "url": "https://www.buildez.ai/blog/ai-trending-april-2026-biggest-shifts"
+      "title": "NVIDIA国家机器人周发布物理AI新模型，合作伙伴推出下一代机器人",
+      "summary": "NVIDIA在国家机器人周期间发布多项物理AI研究成果及新模型，全球合作伙伴同步推出新一代智能机器人。重点展示了基于Jetson Thor的硬件在环测试、Isaac Sim仿真平台与自主代码生成系统，以及在农业、太阳能安装等行业的规模化落地案例。",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots"
+    },
+    {
+      "title": "谷歌悄然上线离线AI听写应用，基于Gemma模型完全本地运行",
+      "summary": "谷歌在iOS平台低调发布\"Google AI Edge Eloquent\"离线语音转文字应用，下载Gemma语音识别模型后可完全离线使用，无需联网即可实现实时语音听写。该应用免费提供，标志着谷歌将端侧AI能力推向消费端的重要一步。",
+      "url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/"
+    },
+    {
+      "title": "AI能效研究突破：新算法在提升精度同时将能耗降低100倍",
+      "summary": "研究人员发布一种全新AI推理方法，可在提升模型准确率的同时将能耗降低高达100倍，被视为解决大模型高能耗难题的重大突破。该成果有望推动AI在资源受限设备和大规模数据中心中的可持续部署。",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm"
     }
   ]
 }
