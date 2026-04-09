@@ -1,0 +1,55 @@
+{
+  "date": "2026-04-09",
+  "news": [
+    {
+      "title": "Meta发布首款重大AI大模型Muse Spark",
+      "summary": "Meta超级智能实验室（由首席AI官Alexandr Wang领导）发布Muse Spark，以数量级更低的计算量实现与Llama 4中型版本相当的性能，在AI分析智能指数中位列第四。Meta预计2026年AI资本支出达1150亿至1350亿美元。",
+      "url": "https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html"
+    },
+    {
+      "title": "Anthropic年化营收突破300亿美元，超越OpenAI",
+      "summary": "Anthropic年化营收从2025年底的90亿美元飙升至300亿美元以上，超越OpenAI的250亿美元成为AI领域收入最高公司。两个月内年消费超百万美元的企业客户数量从500家倍增至逾1000家。",
+      "url": "https://sherwood.news/markets/anthropic-revenue-run-rate-30-billion-google-broadcom-partnership/"
+    },
+    {
+      "title": "Broadcom与Anthropic签署扩大版芯片协议，提供3.5GW算力",
+      "summary": "Broadcom与Anthropic达成扩大版芯片协议，将基于Google TPU基础设施向Anthropic提供约3.5吉瓦的计算能力，以满足Claude模型爆炸式增长的企业需求。",
+      "url": "https://www.cnbc.com/2026/04/06/broadcom-agrees-to-expanded-chip-deals-with-google-anthropic.html"
+    },
+    {
+      "title": "NVIDIA全国机器人周发布最新Physical AI模型",
+      "summary": "NVIDIA在全国机器人周发布最新物理AI模型及研究成果，展示基于Jetson Thor的硬件在环测试和Isaac Sim虚拟训练能力，OpenClaw现可完全本地运行于Jetson Thor，推动机器人加速落地农业和制造业。",
+      "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/"
+    },
+    {
+      "title": "2026年Q1全球AI风险投资创历史记录，达2420亿美元",
+      "summary": "2026年Q1全球风投总额达3000亿美元，其中AI占2420亿美元（全球总量的80%）。OpenAI、Anthropic、xAI、Waymo四家公司合计融资1880亿美元，史上规模最大的四笔风投全部发生在本季度。",
+      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/"
+    },
+    {
+      "title": "DeepSeek V4将完全运行于华为昇腾950PR芯片",
+      "summary": "路透社证实，DeepSeek即将发布的V4模型（1万亿MoE参数、100万token上下文）将完全基于华为昇腾950PR芯片运行，成为首款依托国产半导体基础设施的前沿AI模型，预计4月底开源发布。",
+      "url": "https://findskill.ai/blog/deepseek-v4-release-date-specs/"
+    },
+    {
+      "title": "Google悄然发布离线AI听写应用",
+      "summary": "Google低调在iOS端发布离线AI听写应用\"Google AI Edge Eloquent\"，可在无网络环境下实现语音转文字，并自动过滤\"嗯\"\"啊\"等填充词，全程在设备本地运行保护隐私。",
+      "url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/"
+    },
+    {
+      "title": "研究突破：AI模型能耗可降低100倍同时提升准确率",
+      "summary": "研究人员发表新方法，可将AI推理能耗降低最多100倍，且同步提升模型准确率，有望大幅降低AI运行成本并推动AI可持续发展。",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm"
+    },
+    {
+      "title": "犹他州率先批准AI自主续开精神类药物处方",
+      "summary": "美国犹他州批准YC支持的Legion Health公司AI系统，允许在医生非实时审核下为稳定期精神病患者续开15种低风险精神类药物，成为全美首例合法AI处方系统，一年期试点定价19美元/月。",
+      "url": "https://www.mobihealthnews.com/news/utah-allows-ai-renew-prescription-drugs-autonomously"
+    },
+    {
+      "title": "Eclipse完成13亿美元募资，聚焦AI基础设施与机器人",
+      "summary": "Cerebras早期投资方Eclipse完成13亿美元新募资，重点投资AI基础设施、制造业自动化和国防领域的AI初创公司，进一步加码物理世界的AI应用。",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-07/cerebras-backer-eclipse-raises-1-3-billion-for-robotics-ai-infrastructure"
+    }
+  ]
+}
