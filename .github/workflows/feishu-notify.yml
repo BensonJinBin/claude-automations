@@ -16,6 +16,13 @@ jobs:
           DATE=$(date -u +%Y-%m-%d)
           FILE="daily-news/archive/${DATE}.json"
 
+          # Validate JSON before processing
+          if ! python3 -c "import json,sys; json.load(open('${FILE}'))" 2>/dev/null; then
+            echo "ERROR: ${FILE} is not valid JSON. Check for unescaped quotes in title/summary fields."
+            python3 -c "import json,sys; json.load(open('${FILE}'))"
+            exit 1
+          fi
+
           # Build rich text content array
           CONTENT=$(jq -c '[.news[] | [
             {"tag": "text", "text": ("【" + (.title) + "】\n")},
