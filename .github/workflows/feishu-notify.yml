@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'daily-news/archive/**.json'
+  workflow_dispatch:
 
 jobs:
   notify:
