@@ -4,52 +4,56 @@
     {
       "title": "Meta发布首款闭源AI模型Muse Spark，标志重大战略转型",
       "summary": "Meta于4月8日发布旗下首款闭源专有AI模型Muse Spark，来自超级智能实验室，支持文本、语音、图像输入，已在美国上线。这标志着Meta从开源策略向闭源路线的重大转变。",
-      "url": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/"
-    },
-    {
-      "title": "Anthropic发布Claude Mythos预览版，因安全风险拒绝公开发布",
-      "summary": "Anthropic于4月7日发布Claude Mythos Preview，该模型已在所有主流操作系统和浏览器中发现数千个高危漏洞。Anthropic拒绝公开发布，仅通过\"玻璃翼计划\"向亚马逊、苹果、谷歌、微软等合作伙伴提供有限访问。",
-      "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/"
+      "url": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/",
+      "date": "2026-04-08"
     },
     {
       "title": "Meta与CoreWeave签署210亿美元AI算力新协议",
       "summary": "Meta于4月9日与CoreWeave签署总额210亿美元、延续至2032年的AI云计算协议，CoreWeave将为Meta提供由英伟达Rubin芯片驱动的大规模GPU集群。加上此前协议，双方合同总额已达350亿美元。",
-      "url": "https://www.cnbc.com/2026/04/09/meta-commits-to-spending-additional-21-billion-with-coreweave-.html"
+      "url": "https://www.cnbc.com/2026/04/09/meta-commits-to-spending-additional-21-billion-with-coreweave-.html",
+      "date": "2026-04-09"
     },
     {
       "title": "亚马逊AWS一季度AI年化收入突破150亿美元",
       "summary": "亚马逊CEO安迪·贾西在4月9日股东信中披露，AWS云业务AI年化收入已超过150亿美元，这是亚马逊首次公开披露AI直接财务回报，并预测AI有望推动AWS最终实现6000亿美元年销售额。",
-      "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/04/09/amazon-cloud-units-ai-revenue-run-rate-exceeds-us15-billion-in-first-quarter-ceo-says/"
+      "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/04/09/amazon-cloud-units-ai-revenue-run-rate-exceeds-us15-billion-in-first-quarter-ceo-says/",
+      "date": "2026-04-09"
     },
     {
       "title": "OpenAI预测广告收入2030年将达1000亿美元",
       "summary": "据4月9日Axios报道，OpenAI已向投资者预测2026年广告收入将达25亿美元，2030年将达1000亿美元。广告试点项目在两个月内吸引超600个广告主，年化收入已达1亿美元。",
-      "url": "https://www.axios.com/2026/04/09/openai-100-billion-in-ad-revenue"
+      "url": "https://www.axios.com/2026/04/09/openai-100-billion-in-ad-revenue",
+      "date": "2026-04-09"
     },
     {
       "title": "OpenAI宣布将向零售投资者开放IPO认购",
       "summary": "OpenAI首席财务官Sarah Friar于4月8日宣布，公司上市时将为零售投资者分配股份。据悉OpenAI正与投行商讨最早于2026年第四季度上市，目标估值达1万亿美元。",
-      "url": "https://www.cnbc.com/2026/04/08/openai-ipo-sarah-friar-retail-investors.html"
+      "url": "https://www.cnbc.com/2026/04/08/openai-ipo-sarah-friar-retail-investors.html",
+      "date": "2026-04-08"
     },
     {
       "title": "DeepSeek推出专家模式，千亿参数V4模型本月有望发布",
       "summary": "DeepSeek于4月8日悄然推出\"快速模式\"和\"专家模式\"双服务层级，专家模式专注复杂推理与深度思考。业界认为此举预示V4旗舰大模型将在本月正式发布。",
-      "url": "https://technode.com/2026/04/08/deepseek-v4-may-launch-this-month-test-interface-suggests-vision-and-expert-modes/"
+      "url": "https://technode.com/2026/04/08/deepseek-v4-may-launch-this-month-test-interface-suggests-vision-and-expert-modes/",
+      "date": "2026-04-08"
     },
     {
       "title": "白宫发布国家AI政策框架，建议联邦统一监管取代州法律",
       "summary": "白宫AI政策框架于4月8日前后引发广泛关注，建议国会统一AI监管标准并取代各州不一致的AI法律。框架主张利用现有监管机构而非新设机构来管理AI，并要求对儿童AI服务设立隐私保护。",
-      "url": "https://www.consumerfinancemonitor.com/2026/04/08/the-white-houses-national-policy-framework-for-artificial-intelligence-what-it-means-and-what-comes-next/"
+      "url": "https://www.consumerfinancemonitor.com/2026/04/08/the-white-houses-national-policy-framework-for-artificial-intelligence-what-it-means-and-what-comes-next/",
+      "date": "2026-04-08"
     },
     {
       "title": "中国人形机器人产量2026年预计激增94%",
       "summary": "研究机构TrendForce于4月9日报告，中国人形机器人年产量2026年将激增94%，宇树科技和智元机器人预计占据约80%市场份额。北京正为4月19日举行、26个品牌300余台机器人参与的人形机器人半程马拉松进行测试。",
-      "url": "https://www.trendforce.com/presscenter/news/20260409-13007.html"
+      "url": "https://www.trendforce.com/presscenter/news/20260409-13007.html",
+      "date": "2026-04-09"
     },
     {
       "title": "科技行业一季度裁员近8万人，近半归因AI自动化",
       "summary": "2026年一季度科技行业已裁员约78,557人，其中47.9%的岗位削减直接归因于AI和工作流自动化替代人工。这标志着AI对就业市场的冲击正在从预期走向现实，且规模持续扩大。",
-      "url": "https://www.tomshardware.com/tech-industry/tech-industry-lays-off-nearly-80-000-employees-in-the-first-quarter-of-2026-almost-50-percent-of-affected-positions-cut-due-to-ai"
+      "url": "https://www.tomshardware.com/tech-industry/tech-industry-lays-off-nearly-80-000-employees-in-the-first-quarter-of-2026-almost-50-percent-of-affected-positions-cut-due-to-ai",
+      "date": "2026-04-10"
     }
   ]
 }
