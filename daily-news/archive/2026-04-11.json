@@ -1,0 +1,55 @@
+{
+  "date": "2026-04-11",
+  "news": [
+    {
+      "title": "Anthropic限制Claude Mythos Preview访问，称其发现数千零日漏洞过于危险",
+      "summary": "Anthropic推出Claude Mythos Preview网络安全AI模型后，因其能够在所有主流操作系统和浏览器中发现数千个未知零日漏洞而被认为过于危险，仅通过Project Glasswing计划向苹果、微软、谷歌等40余家科技公司提供有限访问权限用于防御性安全工作。",
+      "url": "https://fortune.com/2026/04/10/anthropic-mythos-ai-driven-cybersecurity-risks-already-here/"
+    },
+    {
+      "title": "OpenAI计划推出专用网络安全AI模型，直接挑战Anthropic Mythos",
+      "summary": "OpenAI宣布正在开发专用网络安全AI模型，将通过\"可信访问网络安全\"试点计划向精选企业提供，此前已向参与者承诺1000万美元API积分，明确对标Anthropic的Claude Mythos在网络安全领域的竞争。",
+      "url": "https://dataconomy.com/2026/04/10/openai-plans-cybersecurity-model-to-rival-anthropics-claude-mythos/"
+    },
+    {
+      "title": "OpenAI企业AI进入新阶段：企业收入占比超40%，Codex每周用户达300万",
+      "summary": "OpenAI发布企业AI最新进展，企业业务已占总收入40%以上并有望年内与消费端持平，Codex每周活跃用户达300万（年初以来增长5倍），API每分钟处理超150亿Token，并推出以Codex为核心的统一企业AI超级应用战略。",
+      "url": "https://openai.com/index/next-phase-of-enterprise-ai/"
+    },
+    {
+      "title": "阿里巴巴揭晓\"Happy Horse\"视频AI模型，以大幅优势位居全球榜首",
+      "summary": "阿里巴巴承认是匿名在基准测试平台登顶的AI视频生成模型\"Happy Horse\"的创作者，该模型在Artificial Analysis视频竞技场文生视频和图生视频两项均以超100分Elo优势领先第二名，基于400亿参数统一Transformer架构。",
+      "url": "https://www.cnbc.com/2026/04/10/alibaba-happyhorse-ai-video-model-benchmark-reveal.html"
+    },
+    {
+      "title": "Google将NotebookLM整合进Gemini，推出Notebooks功能支持双向同步",
+      "summary": "Google在Gemini应用中推出Notebooks功能，用户可在对话界面直接添加PDF、文档、网页URL、YouTube视频等内容并与NotebookLM实时同步，目前优先向Ultra、Pro和Plus付费订阅用户开放。",
+      "url": "https://www.ghacks.net/2026/04/10/google-gemini-adds-notebooks-feature-with-automatic-notebooklm-sync-for-projects/"
+    },
+    {
+      "title": "Anthropic推出Advisor Strategy：Opus 4.6作为Sonnet/Haiku的幕后智能顾问",
+      "summary": "Anthropic通过Messages API推出Advisor Strategy，允许开发者将Opus 4.6配置为Sonnet或Haiku执行模型的后端顾问，遇复杂决策时静默调用Opus提供规划建议，可降低约12%成本同时将SWE-bench多语言评分提升2.7个百分点。",
+      "url": "https://www.testingcatalog.com/anthropic-launches-advisor-tool-for-claude-platform-api-users/"
+    },
+    {
+      "title": "OpenAI推出每月100美元Pro订阅，5倍Codex使用量直接对标Claude Code",
+      "summary": "OpenAI发布新的100美元/月Pro订阅计划，为开发者提供比Plus计划5倍的Codex使用量，5月31日前限时提供10倍使用量优惠，明确定位为对标Anthropic同价位Claude Code方案的竞品。",
+      "url": "https://dataconomy.com/2026/04/10/openai-launches-new-100-a-month-pro-plan-for-chatgpt/"
+    },
+    {
+      "title": "Shopify AI Toolkit正式发布，AI编程代理可直连平台执行真实店铺操作",
+      "summary": "Shopify推出开源AI Toolkit（MIT协议），支持Claude Code、Cursor、Gemini CLI等主流AI编程代理通过自然语言获取实时文档、API Schema并直接执行批量SEO更新、折扣管理、产品图片替换等店铺管理操作。",
+      "url": "https://shopify.dev/changelog/shopify-ai-toolkit-connect-your-ai-tools-to-the-shopify-platform"
+    },
+    {
+      "title": "Meta AI应用引发隐私争议：用户聊天记录自动显示在好友Facebook动态中",
+      "summary": "TechCrunch披露使用Meta AI应用的记录会自动出现在用户Facebook、Instagram等社交账号动态中并被好友看到，引发隐私担忧；同期Meta AI应用因Muse Spark升级冲上美国App Store第5名，相比发布前的第57名大幅上升。",
+      "url": "https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/"
+    },
+    {
+      "title": "分析：Anthropic Mythos将迫使网络安全行业从被动修补转向AI主导的主动防御架构",
+      "summary": "分析人士指出Anthropic Mythos带来的不仅是漏洞发现能力的量变，更将推动网络安全行业根本性重构：传统漏洞赏金计划、渗透测试和SOC运营模式将面临颠覆，企业须尽快建立AI驱动的主动防御体系以应对同等能力的攻击威胁。",
+      "url": "https://startupnews.fyi/2026/04/11/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/"
+    }
+  ]
+}
