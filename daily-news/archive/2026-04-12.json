@@ -1,0 +1,55 @@
+{
+  "date": "2026-04-12",
+  "news": [
+    {
+      "title": "Anthropic发布Claude Mythos Preview，仅向网络安全合作伙伴开放",
+      "summary": "Anthropic推出在网络安全领域表现卓越的Claude Mythos Preview，该模型已发现主流操作系统和浏览器的数千个零日漏洞，因潜在风险不对公众开放；通过Project Glasswing计划向50家科技企业提供逾1亿美元使用额度，参与方包括微软、英伟达和思科。",
+      "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/"
+    },
+    {
+      "title": "Meta Superintelligence Labs正式推出首款Muse Spark大模型",
+      "summary": "Meta旗下由前Scale AI创始人王晓帆领导的Muse实验室发布首款多模态模型Muse Spark，在多模态感知、推理、健康和智能体任务上表现突出；Meta宣布2026年AI相关资本开支将达1150亿至1350亿美元，约为去年两倍。",
+      "url": "https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html"
+    },
+    {
+      "title": "印度政府直接资助12家AI基础模型机构，大力押注主权AI",
+      "summary": "印度政府宣布直接资助Sarvam AI、IIT孟买BharatGen联合体等12家机构开发本土主权AI基础模型，印度顶级AI企业获得的风险投资总额已超29亿美元，Sarvam AI同步正在完成3.5亿美元融资，估值达15亿美元。",
+      "url": "https://asanify.com/blog/news/ai-infrastructure-india-investment-april-11-2026/"
+    },
+    {
+      "title": "OpenAI、Anthropic、谷歌联合打击中国AI模型蒸馏抄袭",
+      "summary": "三大AI巨头通过Frontier Model Forum共享情报，联合识别并打击中国企业涉嫌违规进行的对抗性蒸馏行为，Anthropic称DeepSeek、月之暗面、MiniMax等通过约2.4万个欺诈账号累计获取1600万次Claude交互数据。",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china"
+    },
+    {
+      "title": "OpenAI IPO进展：将向零售投资者保留股份，内部高管出现分歧",
+      "summary": "OpenAI首席财务官莎拉·弗里亚尔在CNBC确认将在IPO中为散户投资者预留份额，目标估值约1万亿美元；但她私下警告公司尚未做好上市准备，CEO阿尔特曼已将其排除在部分融资决策之外，双方出现明显分歧。",
+      "url": "https://www.cnbc.com/2026/04/08/openai-ipo-sarah-friar-retail-investors.html"
+    },
+    {
+      "title": "Perplexity年化收入破4.5亿美元，单月暴增50%",
+      "summary": "Perplexity完成从搜索引擎到AI智能体平台的战略转型后，3月年化营收突破4.5亿美元且单月增长50%，月活用户超1亿；"Computer"智能体工具及基于使用量的新定价模式是核心增长引擎。",
+      "url": "https://techstartups.com/2026/04/08/perplexity-revenue-surges-50-as-ai-startup-shifts-from-search-to-autonomous-ai-agents/"
+    },
+    {
+      "title": "AI成3月科技裁员首要原因，Q1全球科技裁员近8万人",
+      "summary": "Challenger报告显示，AI在3月成为职位削减的首要原因，占当月裁员总数的25%（逾15000个职位），较2月10%大幅跃升；Q1 2026全球科技业裁员近8万人，约50%与AI自动化替代相关。",
+      "url": "https://www.challengergray.com/blog/challenger-report-march-cuts-rise-25-from-february-ai-leads-reasons/"
+    },
+    {
+      "title": "OpenAI收购科技播客TBPN，向媒体与叙事影响力扩张",
+      "summary": "OpenAI以"低数亿美元"收购每日科技脱口秀TBPN，系其首次收购媒体公司；播客保持编辑独立性，将协助OpenAI塑造公众对AI的认知，分析人士认为此举标志着AI巨头正向综合信息平台演进。",
+      "url": "https://fortune.com/2026/04/11/openai-tbpn-acquisition-what-it-means-hubspot/"
+    },
+    {
+      "title": "DeepSeek V4确认运行于华为昇腾950PR芯片，4月下旬即将发布",
+      "summary": "路透社确认DeepSeek V4将搭载华为昇腾950PR芯片，这将是首款完全基于中国半导体生态的前沿AI模型；该模型拥有1万亿总参数、1M Token上下文窗口，每次推理仅激活约370亿参数，预计4月下旬正式发布。",
+      "url": "https://www.gizchina.com/ai/deepseek-v4-expected-to-launch-in-late-april-with-massive-parameter-scale"
+    },
+    {
+      "title": "伊朗停火推动AI股强势反弹，分析师指出布局良机",
+      "summary": "伊朗战争停火消息引发美股全面反弹，AI股在S&P 500复苏中发挥主导作用，年初至今基本持平；多位分析师认为当前是逢低布局优质AI股的良好窗口，看好OpenAI生态链及英伟达等基础设施供应商。",
+      "url": "https://www.fool.com/investing/2026/04/11/artifical-intelligence-ai-stocks-are-rising-on-the/"
+    }
+  ]
+}
