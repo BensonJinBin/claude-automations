@@ -3,11 +3,56 @@ from datetime import date, timedelta
 
 file_path = sys.argv[1]
 
+
+def repair_json(text):
+    """Attempt to fix common JSON issues: unescaped double quotes inside string values."""
+    # Strategy: parse character by character, track string context and escape unescaped quotes
+    result = []
+    in_string = False
+    escaped = False
+    for i, ch in enumerate(text):
+        if escaped:
+            result.append(ch)
+            escaped = False
+            continue
+        if ch == '\\':
+            escaped = True
+            result.append(ch)
+            continue
+        if ch == '"':
+            if not in_string:
+                in_string = True
+                result.append(ch)
+            else:
+                # Peek ahead: if next non-whitespace is , ] } : then this closes the string
+                rest = text[i+1:].lstrip()
+                if rest and rest[0] in ',]}:':
+                    in_string = False
+                    result.append(ch)
+                else:
+                    # Likely an unescaped quote inside string — escape it
+                    result.append('\\"')
+        else:
+            result.append(ch)
+    return ''.join(result)
+
+
 with open(file_path) as f:
+    raw = f.read()
+
+try:
+    data = json.loads(raw)
+except json.JSONDecodeError as e:
+    print(f"WARNING: Invalid JSON detected - {e}")
+    print("Attempting automatic repair...")
+    repaired = repair_json(raw)
     try:
-        data = json.load(f)
-    except json.JSONDecodeError as e:
-        print(f"ERROR: Invalid JSON - {e}")
+        data = json.loads(repaired)
+        print("Repair succeeded. Writing fixed JSON back to file.")
+        with open(file_path, 'w') as f:
+            f.write(repaired)
+    except json.JSONDecodeError as e2:
+        print(f"ERROR: Could not repair JSON - {e2}")
         print("Check for unescaped quotes in title/summary fields.")
         sys.exit(1)
 
