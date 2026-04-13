@@ -1,0 +1,55 @@
+{
+  "date": "2026-04-13",
+  "news": [
+    {
+      "title": "Anthropic 受限网络安全大模型 Claude Mythos 正式登陆 Google Cloud Vertex AI",
+      "summary": "Anthropic 与 Google Cloud 合作，将 Claude Mythos Preview 引入 Vertex AI 私有预览，向经审核的合作伙伴开放，聚焦网络安全防御用途。Claude Mythos 曾自主发现主流操作系统与浏览器的数千个零日漏洞，因潜在安全风险未予公开发布，每百万 token 定价 25/125 美元。",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/claude-mythos-preview-on-vertex-ai"
+    },
+    {
+      "title": "MiniMax 开源自进化智能体模型 M2.7，可自主完成 30%–50% 的研发流程",
+      "summary": "MiniMax 正式开源 M2.7 模型，这是首个能参与自身开发迭代的 AI 模型，通过 100 余轮自主优化循环将性能提升 30%，在 SWE-Pro 代码基准中达到 56.22%，比肩 GPT-5.3-Codex，成本仅为其五十分之一，模型权重已在 Hugging Face 开放下载。",
+      "url": "https://www.marktechpost.com/2026/04/12/minimax-just-open-sourced-minimax-m2-7-a-self-evolving-agent-model-that-scores-56-22-on-swe-pro-and-57-0-on-terminal-bench-2/"
+    },
+    {
+      "title": "谷歌宣布 I/O 2026 大会定于 5 月 19–20 日举行，AI 议题全面主导",
+      "summary": "谷歌官宣开发者大会 Google I/O 2026 将于 5 月 19–20 日在加州山景城 Shoreline Amphitheatre 举办，预计是史上 AI 内容最密集的一届，主要看点包括 Gemini 新模型、Project Astra 深度集成以及 Android 17 更新。",
+      "url": "https://nationaltoday.com/us/ca/mountain-view/news/2026/04/11/google-io-2026-announced-major-ai-and-android-reveals/"
+    },
+    {
+      "title": "Meta 与 KAUST 提出\"神经计算机\"：把计算、内存与 I/O 融合为一个学习模型",
+      "summary": "Meta AI 与沙特阿卜杜拉国王科技大学联合 19 位研究员（含 LSTM 之父 Jürgen Schmidhuber）发表论文，提出\"神经计算机\"（Neural Computer）架构，将传统计算机的计算、存储与 I/O 统一为单一神经网络运行时，并展示了两个基于屏幕录像训练的早期原型系统。",
+      "url": "https://www.marktechpost.com/2026/04/12/meta-ai-and-kaust-researchers-propose-neural-computers-that-fold-computation-memory-and-i-o-into-one-learned-model/"
+    },
+    {
+      "title": "2026 世界互联网大会亚太峰会在香港开幕，聚焦 AI 安全治理",
+      "summary": "以\"数智赋能 创新发展\"为主题的 2026 年世界互联网大会亚太峰会 4 月 13–14 日在香港正式开幕，议题涵盖人工智能安全治理、智能体创新、数字金融与智慧民生，首设部长级会议，来自全球 50 余个国家和地区的代表参会。",
+      "url": "https://www.chinanews.com.cn/gn/2026/04-12/10602479.shtml"
+    },
+    {
+      "title": "Arm CEO：AI 远比互联网革命更深远，软银拟晋升其掌管国际业务",
+      "summary": "Arm 首席执行官 Rene Haas 公开表示 AI 浪潮\"远比互联网变革更宏大\"。与此同时，软银集团正考虑提拔 Haas 兼管旗下大量国际业务，以加速孙正义在半导体与 AI 领域的战略布局，此举尚待两家公司董事会批准。",
+      "url": "https://money.whatfinger.com/2026/04/12/arm-ceo-says-ai-is-much-bigger-than-the-internet-shift/"
+    },
+    {
+      "title": "工信部将发布一批\"人工智能+\"高价值场景，推动 AI 与制造业深度融合",
+      "summary": "工信部科技司副司长在武汉 AIIA 第十七次全体会议上宣布，将发布一批\"人工智能+\"高价值场景，推进\"模型-数据-场景\"良性互促，并实施人形机器人实景实训等专项行动，我国 AI 核心产业规模已超 1.2 万亿元。",
+      "url": "https://www.news.cn/tech/20260411/9c977db074de4c07a2cd00dcb077703c/c.html"
+    },
+    {
+      "title": "谷歌 Gemini AI 推出 Canvas 一键生成演示文稿功能",
+      "summary": "谷歌 Gemini 在 Canvas 平台新增演示文稿生成功能，用户上传材料或输入主题即可自动生成专业幻灯片；同步推出跨平台聊天记录导入，可将其他 AI 对话历史直接迁移至 Gemini，进一步提升多平台互操作性。",
+      "url": "https://nationaltoday.com/us/ca/san-francisco/news/2026/04/11/google-gemini-ai-now-generates-presentations-instantly/"
+    },
+    {
+      "title": "Liquid AI 发布 LFM2.5-VL-450M 边缘端视觉语言模型，推理延迟低于 250ms",
+      "summary": "Liquid AI 发布仅 4.5 亿参数的边缘端视觉语言模型 LFM2.5-VL-450M，支持边界框预测、多语言理解与函数调用，在 NVIDIA Jetson Orin 上可在 242ms 内完成图像推理，权重已在 Hugging Face 开放，适用于机器人与工业视觉场景。",
+      "url": "https://www.marktechpost.com/2026/04/11/liquid-ai-releases-lfm2-5-vl-450m-a-450m-parameter-vision-language-model-with-bounding-box-prediction-multilingual-support-and-sub-250ms-edge-inference/"
+    },
+    {
+      "title": "NousResearch 发布开源自进化智能体框架 Hermes Agent",
+      "summary": "NousResearch 发布 Hermes Agent 开源框架，智能体可随用户使用持续成长，具备持久记忆、自动生成可复用技能，支持 Telegram/Discord/Slack/WhatsApp 等多平台接入及本地/Docker/SSH 多种运行后端，通过闭环学习机制实现持续自我优化。",
+      "url": "https://aitoolly.com/ai-news/article/2026-04-12-nousresearch-launches-hermes-agent-a-new-intelligent-agent-designed-to-grow-with-users"
+    }
+  ]
+}
