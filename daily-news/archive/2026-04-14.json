@@ -1,0 +1,55 @@
+{
+  "date": "2026-04-14",
+  "news": [
+    {
+      "title": "斯坦福2026 AI指数：中国AI性能几乎与美国持平",
+      "summary": "斯坦福大学HAI发布2026年AI指数报告，显示中国AI模型性能与美国差距已缩至2.7%，美中两国在AI排行榜上多次互换领先位置。报告还发现生成式AI三年内全球渗透率达53%，超越个人电脑和互联网的早期普及速度。",
+      "url": "https://siliconangle.com/2026/04/13/stanford-hais-2026-ai-index-reveals-china-u-s-now-neck-neck-race-global-dominance/"
+    },
+    {
+      "title": "PwC研究：AI经济收益高度集中，20%企业占据75%利益",
+      "summary": "普华永道发布2026年AI绩效研究报告，揭示AI经济收益严重向头部企业集中，仅20%的公司获取了四分之三的AI经济增益。领先企业的战略重点在于通过AI推动业务增长，而非单纯提升生产效率。",
+      "url": "https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-performance-study.html"
+    },
+    {
+      "title": "微软为Microsoft 365 Copilot开发全天候AI自主代理",
+      "summary": "微软正测试在Microsoft 365 Copilot中集成类似OpenClaw的全天候自主AI代理功能，支持7x24小时自主运行，以满足企业级客户需求并强化安全控制。该功能预计将在6月微软Build开发者大会上正式展示。",
+      "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/"
+    },
+    {
+      "title": "OpenAI今日正式下线旧版Codex模型",
+      "summary": "4月14日起，OpenAI在ChatGPT中停用旧版Codex系列模型，包括gpt-5.2-codex、gpt-5.1-codex及gpt-5.1等版本。用户可继续使用gpt-5.4、gpt-5.4-mini和gpt-5.3-codex等新版模型。",
+      "url": "https://www.thetechoutlook.com/new-release/software-apps/openai-retiring-older-models-in-codex-from-14th-april/"
+    },
+    {
+      "title": "Gallup调查：美国半数员工已在工作中使用AI",
+      "summary": "盖洛普最新调查显示，50%的美国员工在工作中至少偶尔使用AI工具，较上季度上升4个百分点，13%的员工每天使用AI。调查发现管理层与基层员工AI使用率差距明显，67%的领导者每天使用AI，个人贡献者仅46%。",
+      "url": "https://www.axios.com/2026/04/13/ai-workplace-use-leaders-poll"
+    },
+    {
+      "title": "Vercel CEO宣告IPO准备就绪，AI代理推动营收大幅增长",
+      "summary": "Vercel CEO Guillermo Rauch在HumanX大会上宣布公司已做好IPO准备，年度经常性收入从2024年初1亿美元增至2026年2月3.4亿美元，增幅达240%。目前平台上30%的应用由AI代理部署，公司最新估值达93亿美元。",
+      "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/"
+    },
+    {
+      "title": "HumanX大会：Anthropic Claude成为最热议AI模型",
+      "summary": "在旧金山举行的2026年HumanX AI峰会上，Anthropic的Claude成为开发者和企业客户最多讨论的AI工具，在智能体应用领域展现出强大影响力。大会聚焦AI如何从演示阶段进入规模化商业落地，与会者超过3000人。",
+      "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/"
+    },
+    {
+      "title": "Kuka发布\"自动化2.0\"战略，以AI重塑工业制造",
+      "summary": "工业机器人制造商Kuka正式推出\"Automation 2.0\"战略，发布KukaAMP自动化管理平台软件，实现从传统规则编程向AI驱动的意图型自动化系统转变。该战略体现了全球制造业向物理AI深度融合的行业趋势。",
+      "url": "https://roboticsandautomationnews.com/2026/04/13/kuka-outlines-automation-2-0-strategy-combining-ai-software-with-industrial-robotics/100547/"
+    },
+    {
+      "title": "斯坦福AI指数：AI业内人士与公众认知鸿沟持续扩大",
+      "summary": "斯坦福2026年AI指数报告显示，AI专家与普通公众对AI的看法分歧加剧，公众对就业、医疗和经济的担忧持续上升。报告同时揭示主要AI公司透明度大幅下降，基础模型透明度指数从58分骤降至40分。",
+      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/"
+    },
+    {
+      "title": "智元机器人AI WEEK推出开源具身数据集和GO-2基座模型",
+      "summary": "智元机器人在4月7日至14日的AI WEEK发布周中推出开源具身数据集AGIBOT WORLD 2026和GO-2基座模型，并宣布将于4月17日合作伙伴大会上发布4款机器人本体新品及4个AI大模型。",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-04-13/doc-inhufuxw6413787.shtml"
+    }
+  ]
+}
