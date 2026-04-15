@@ -1,0 +1,55 @@
+{
+  "date": "2026-04-15",
+  "news": [
+    {
+      "title": "Anthropic为Claude Code推出云端Routines自动化工作流",
+      "summary": "Anthropic发布Claude Code Routines研究预览版，支持定时、API触发和GitHub事件触发三种模式，任务运行在Anthropic云端基础设施上，用户电脑关机也不中断，可实现夜间自动代码审查、Bug分类等开发工作流。Pro用户每天可运行5次，Max用户15次，Team/Enterprise用户25次。",
+      "url": "https://startupnews.fyi/2026/04/15/claude-code-can-now-do-your-job-overnight/"
+    },
+    {
+      "title": "OpenAI发布GPT-5.4-Cyber网络安全专用AI模型",
+      "summary": "OpenAI推出GPT-5.4-Cyber，这是针对防御性网络安全任务微调的AI模型，具备二进制反编译等高级安全分析能力，降低了对合法安全工作的拒绝率。目前通过扩展版Trusted Access for Cyber计划向经过资质审核的安全专业人员和机构开放，计划逐步扩大到数千名安全人员。",
+      "url": "https://siliconangle.com/2026/04/14/openai-launches-gpt-5-4-cyber-model-vetted-security-professionals/"
+    },
+    {
+      "title": "Google为Chrome浏览器添加AI Skills功能，支持一键复用Gemini提示词",
+      "summary": "Google在Chrome中推出Skills功能，允许用户将常用的Gemini AI提示词保存为技能并一键应用于不同网页，无需重复输入。同时上线Skills资源库，涵盖生产力、购物、食谱、预算等多种使用场景，目前面向使用英语（美国）的Chrome桌面登录用户逐步开放。",
+      "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/"
+    },
+    {
+      "title": "AI数据中心初创公司Fluidstack寻求10亿美元融资，估值飙升至180亿美元",
+      "summary": "专为AI公司构建定制化数据中心的Fluidstack正在洽谈由Jane Street领投的10亿美元新一轮融资，估值将从数月前的75亿美元跃升至180亿美元。该公司是Anthropic的重要基础设施合作伙伴，承建其德州和纽约数据中心，客户还包括Meta、Black Forest Labs等主要AI企业。",
+      "url": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/"
+    },
+    {
+      "title": "OpenAI收购AI个人理财初创公司Hiro Finance，布局万亿级财富管理市场",
+      "summary": "OpenAI宣布收购由Ribbit Capital和General Catalyst支持的AI个人理财初创公司Hiro Finance，Hiro团队将整体加入OpenAI以将其\"AI个人CFO\"愿景融入ChatGPT。Hiro服务将于4月20日关闭，用户数据将于5月13日前全部删除。",
+      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/"
+    },
+    {
+      "title": "Google更新家庭设备中的Gemini语音控制，支持更复杂指令",
+      "summary": "Google更新了Google Home中的Gemini集成，提升了对复杂指令的理解和语音识别准确率，用户可以更自然地通过语音管理笔记、购物清单和家庭自动化任务。该功能正在逐步向用户推送。",
+      "url": "https://techbriefly.com/2026/04/14/google-updates-gemini-in-google-home-with-smarter-voice-controls/"
+    },
+    {
+      "title": "MIT技术评论：图表揭示2026年AI现状——代理成功率升至77%，消费者年获益1720亿美元",
+      "summary": "MIT技术评论发布2026年AI现状分析，数据显示生成式AI三年内达到53%人口采用率，Anthropic领跑模型性能排名，美国消费者每年从AI工具获益1720亿美元，AI代理完成真实任务成功率已从2025年的20%提升至77.3%，网络安全任务成功率更高达93%。",
+      "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/"
+    },
+    {
+      "title": "PwC：2026年AI经济收益高度集中，20%企业拿走75%红利",
+      "summary": "普华永道发布2026年AI绩效研究报告，指出只有少数领先企业在AI竞赛中产生真正的财务回报，这些企业的核心特征是以AI推动业务增长而非单纯提升生产力。OpenAI年化收入已超250亿美元，Anthropic约达190亿美元。",
+      "url": "https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-performance-study.html"
+    },
+    {
+      "title": "美国多州AI立法4月提速，聊天机器人身份披露成监管焦点",
+      "summary": "2026年4月美国各州AI立法进入密集期，缅因州、夏威夷、俄克拉荷马州、加州、康涅狄格州等多州AI相关法案同步推进，主要聚焦聊天机器人强制披露AI身份、危机服务接入、深度伪造内容管控等方向，华盛顿州已通过相关法律要求AI平台在检测到危机信号时连接心理援助服务。",
+      "url": "https://www.troutmanprivacy.com/2026/04/proposed-state-ai-law-update-april-13-2026/"
+    },
+    {
+      "title": "OpenAI下一代旗舰模型\"Spud\"预训练完成，本月内发布概率达78%",
+      "summary": "OpenAI内部代号\"Spud\"的下一代模型（或命名为GPT-5.5或GPT-6）已于3月24日完成预训练，按照惯例3-6周发布窗口，预计将于4月14日至5月5日之间正式亮相。Sam Altman称其为\"可真正加速经济的强大模型\"，Polymarket预测市场给出78%概率于4月内发布。",
+      "url": "https://findskill.ai/blog/gpt-6-release-date/"
+    }
+  ]
+}
