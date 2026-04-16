@@ -1,0 +1,55 @@
+{
+  "date": "2026-04-16",
+  "news": [
+    {
+      "title": "斯坦福2026年AI指数报告：Anthropic模型领跑，AI透明度急剧下滑",
+      "summary": "斯坦福HAI发布2026年AI指数报告，显示Anthropic在模型性能排名中领先，AI组织采用率达88%，但基础模型透明度评分从58分骤降至40分，25岁以下软件开发者就业量较2022年下降近20%，AI社会公众信任问题日益凸显。",
+      "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report"
+    },
+    {
+      "title": "NVIDIA发布全球首个开源量子AI模型系列Ising，量子计算股集体大涨",
+      "summary": "NVIDIA于4月14日正式发布Ising开源量子AI模型系列（Apache-2.0协议），含350亿参数校准模型及量子纠错解码器，量子纠错速度较传统方法提升2.5倍、精度提升3倍，消息推动量子计算股IonQ单日涨幅超20%。",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers"
+    },
+    {
+      "title": "Anthropic Mythos引发华盛顿与华尔街高度警惕，财政部与美联储紧急召会",
+      "summary": "Anthropic的Claude Mythos能在数秒内发现并利用主流操作系统的零日漏洞，美财政部长Bessent与美联储主席Powell紧急召集银行CEO讨论网络安全威胁，模型通过Project Glasswing仅向苹果、微软、亚马逊等少数合作方开放。",
+      "url": "https://www.euronews.com/next/2026/04/14/why-anthropics-new-mythos-ai-model-has-washington-and-wall-street-worked-up"
+    },
+    {
+      "title": "诺和诺德与OpenAI签署企业级AI战略合作，加速药物研发全链条AI整合",
+      "summary": "诺和诺德宣布与OpenAI达成企业级战略合作，将AI能力部署于药物候选分子识别、制造运营及商业化流程，并向全球员工开展AI素养培训，全面整合计划于2026年底完成。",
+      "url": "https://www.cnbc.com/2026/04/14/novo-nordisk-openai-ai-drug-discovery-healthcare-nvo.html"
+    },
+    {
+      "title": "Anthropic本周将发布Claude Opus 4.7及全新AI设计工具",
+      "summary": "据《The Information》4月14日报道，Anthropic计划本周发布旗舰模型Claude Opus 4.7，该模型优化了多步骤推理和长时自主任务能力，同时配套推出面向网页和演示文稿的AI设计工具，直接对标Canva和Figma。",
+      "url": "https://dataconomy.com/2026/04/15/anthropic-to-launch-claude-opus-4-7-this-week/"
+    },
+    {
+      "title": "欧盟监管机构被基本拒于Anthropic Mythos之外，仅英国AI安全研究所获准测试",
+      "summary": "出于网络安全风险考量，欧盟各国监管机构基本无法访问Anthropic Mythos模型，仅英国AI安全研究所获准测试，欧盟委员会公开支持分阶段发布决策，仅德国与Anthropic展开初步对话。",
+      "url": "https://www.csoonline.com/article/4158560/european-authorities-without-access-to-anthropics-ai-for-hacking.html"
+    },
+    {
+      "title": "加州法院裁定AI平台对组装广告内容可承担欺诈法律责任",
+      "summary": "加利福尼亚州北区联邦法院裁定，当平台AI对广告内容行使最终控制权时，平台可能被认定为欺诈性声明的制造者，此裁定对Meta、Alphabet、Snap、TikTok及X等主流社交平台均产生重大法律影响。",
+      "url": "https://www.eversheds-sutherland.com/en/united-states/insights/gloabl-ai-bulletin-april-2026"
+    },
+    {
+      "title": "金融数据标准机构FDX启动AI代理金融数据安全规范计划",
+      "summary": "代表银行、金融科技公司及消费者权益组织的金融数据交易所（FDX）于4月14日宣布启动新计划，旨在为AI代理参与敏感金融账户数据传输场景制定安全标准，以跟上AI代理在金融服务中快速部署的步伐。",
+      "url": "https://www.globenewswire.com/news-release/2026/04/14/3273814/0/en/As-AI-Agents-Get-Involved-in-Financial-Data-Sharing-Leading-Standards-Body-Launches-Initiative-to-Stay-Ahead.html"
+    },
+    {
+      "title": "美国总务署推出AI百万工时挑战，以自动化应对近40%员工流失",
+      "summary": "美国总务署（GSA）副署长宣布将利用内部AI工具USAi发起百万工时挑战，通过消除、优化、自动化三步工作法应对2024年以来流失近40%员工的人力缺口，相当于约500名员工一整年的工作量。",
+      "url": "https://federalnewsnetwork.com/artificial-intelligence/2026/04/gsa-looks-to-automate-a-million-work-hours-after-losing-nearly-40-of-its-workforce/"
+    },
+    {
+      "title": "4月14日AI基础设施融资密集：量子加速与光网络公司合计获逾1.8亿美元",
+      "summary": "4月14日AI基础设施领域单日多笔融资完成：量子加速AI服务器公司Sygaldry Technologies获1.05亿美元A轮、AI数据中心光路交换公司nEye.ai获8000万美元C轮，另有开发者文档平台Mintlify（4500万美元B轮）等完成融资，印证AI基础设施投资持续升温。",
+      "url": "https://www.cryptointegrat.com/p/ai-news-april-14-2026"
+    }
+  ]
+}
